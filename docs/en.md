@@ -1,4 +1,4 @@
 [Dmitrii Evdokimov](/en)
 ========================
 
-En | [Ru](readme "Russian language (по-русски)")
+En | [Ru](readme.md "Russian language (по-русски)")
